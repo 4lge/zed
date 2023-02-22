@@ -1,45 +1,45 @@
 [submodule "app/manual"]
 	path = app/manual
-	url = https://github.com/zedapp/manual.git
+	url = https://github.com/4lge/manual.git
 [submodule "app/config/packages/gh/zedapp/javascript-mode"]
 	path = app/config/packages/gh/zedapp/javascript-mode
-	url = https://github.com/zedapp/javascript-mode.git
+	url = https://github.com/4lge/javascript-mode.git
 [submodule "app/config/packages/gh/zedapp/css-mode"]
 	path = app/config/packages/gh/zedapp/css-mode
-	url = https://github.com/zedapp/css-mode.git
+	url = https://github.com/4lge/css-mode.git
 [submodule "app/config/packages/gh/zedapp/php-mode"]
 	path = app/config/packages/gh/zedapp/php-mode
-	url = https://github.com/zedapp/php-mode.git
+	url = https://github.com/4lge/php-mode.git
 [submodule "app/config/packages/gh/zedapp/jsx-mode"]
 	path = app/config/packages/gh/zedapp/jsx-mode
-	url = https://github.com/zedapp/jsx-mode.git
+	url = https://github.com/4lge/jsx-mode.git
 [submodule "app/config/packages/gh/zedapp/json-mode"]
 	path = app/config/packages/gh/zedapp/json-mode
-	url = https://github.com/zedapp/json-mode.git
+	url = https://github.com/4lge/json-mode.git
 [submodule "app/config/packages/gh/zedapp/json5-mode"]
 	path = app/config/packages/gh/zedapp/json5-mode
-	url = https://github.com/zedapp/json5-mode.git
+	url = https://github.com/4lge/json5-mode.git
 [submodule "app/config/packages/gh/zedapp/follow-complete"]
 	path = app/config/packages/gh/zedapp/follow-complete
-	url = https://github.com/zedapp/follow-complete.git
+	url = https://github.com/4lge/follow-complete.git
 [submodule "app/config/packages/gh/zedapp/bracket-check"]
 	path = app/config/packages/gh/zedapp/bracket-check
-	url = https://github.com/zedapp/bracket-check.git
-[submodule "app/ace"]
-	path = app/ace
-	url = https://github.com/zefhemel/ace-builds.git
+	url = https://github.com/4lge/bracket-check.git
 [submodule "app/config/packages/gh/zedapp/snippets"]
 	path = app/config/packages/gh/zedapp/snippets
-	url = https://github.com/zedapp/snippets.git
+	url = https://github.com/4lge/snippets.git
 [submodule "app/config/packages/gh/zedapp/staticserver"]
 	path = app/config/packages/gh/zedapp/staticserver
-	url = https://github.com/zedapp/staticserver.git
+	url = https://github.com/4lge/staticserver.git
 [submodule "app/config/packages/gh/zedapp/python-mode"]
 	path = app/config/packages/gh/zedapp/python-mode
-	url = https://github.com/zedapp/python-mode.git
+	url = https://github.com/4lge/python-mode.git
 [submodule "app/config/packages/gh/zedapp/config-ui"]
 	path = app/config/packages/gh/zedapp/config-ui
-	url = https://github.com/zedapp/config-ui.git
+	url = https://github.com/4lge/config-ui.git
 [submodule "app/config/packages/gh/zedapp/git-tools"]
 	path = app/config/packages/gh/zedapp/git-tools
-	url = https://github.com/zedapp/git-tools.git
+	url = https://github.com/4lge/git-tools.git
+[submodule "app/ace"]
+	path = app/ace
+	url = https://github.com/4lge/ace.git
